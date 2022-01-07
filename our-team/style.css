@@ -1,0 +1,21 @@
+html {
+  font-size: 20px;
+  font-family: "Be Vietnam Pro", sans-serif;
+  background-color: lightgoldenrodyellow;
+}
+body {
+  color: darkorchid;
+  width: 600px;
+  margin: 0 auto;
+  border: 5px dashed darksalmon;
+  padding: 0 20px 20px 20px;
+}
+.kate{
+
+  color: hotpink;
+  text-align: left;
+}
+title {
+  color: lavenderblush;
+  font-size: 50px;
+}
