@@ -10,11 +10,12 @@ body {
   border: 5px dashed darksalmon;
   padding: 0 20px 20px 20px;
 }
-.kate{
+.Kate{
 
   color: hotpink;
   text-align: left;
 }
+
 title {
   color: lavenderblush;
   font-size: 50px;
