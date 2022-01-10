@@ -37,13 +37,14 @@ h2 {
   border-style: solid;
   border-color: darkslategray;
   padding:  1em;
-  font-size: 30px;
+  font-size: 25px;
   font-weight: bolder;
   text-transform: full-width;
+  text-align: center;
 }
 
 .data {
-  color: hotpink;
+  color: darkslategray;
 }
 /*highlight commentary points for bottom line "so what"*/
 
@@ -52,7 +53,7 @@ h2 {
   background-color: lightgoldenrodyellow;
   border: 3px;
   border-style: solid;
-  border-color: darkorchid;
+  border-color: navy;
   padding: 1em;
 }
 
