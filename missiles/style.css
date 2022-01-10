@@ -1,5 +1,5 @@
 html {
-  padding:  25px 50px 75px 100px;
+  padding:  30px 50px 75px 100px;
 }
 
 
@@ -33,10 +33,11 @@ h2 {
 
 /* Delineate missile types in paragraphs */
 .missiletype {
-  border-width: 5px;
-  border-style: solid black, 5px;
-  color:  darkslategray;
-  font-size: 18px;
+  border: 3px;
+  border-style: solid;
+  border-color: darkslategray;
+  padding:  1em;
+  font-size: 30px;
   font-weight: bolder;
   text-transform: full-width;
 }
@@ -44,6 +45,7 @@ h2 {
 .data {
   color: hotpink;
 }
+/*highlight commentary points for bottom line "so what"*/
 
 .commentary {
   border-color: darkslategray;
@@ -52,12 +54,13 @@ h2 {
   border-style: solid;
   border-color: darkorchid;
   padding: 1em;
-
 }
+
 /* Change the link color to #111 (black) on hover */
 li a:hover {
   background-color: #111;
 }
+
 .active {
   background-color: #04AA6D;
   color: white;
