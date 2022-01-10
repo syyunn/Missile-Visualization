@@ -29,3 +29,7 @@ li a:hover {
   background-color: #04AA6D;
   color: white;
 }
+
+html {
+  padding:  25px 50px 75px 100px;
+}
