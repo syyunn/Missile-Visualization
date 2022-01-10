@@ -1,3 +1,8 @@
+html {
+  padding:  25px 50px 75px 100px;
+}
+
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -23,10 +28,13 @@ li a {
 
 h2 {
   text-align: center;
+  font-size: 32px;
 }
 
 /* Delineate missile types in paragraphs */
 .missiletype {
+  border-width: 5px;
+  border-style: solid black, 5px;
   color:  darkslategray;
   font-size: 18px;
   font-weight: bolder;
